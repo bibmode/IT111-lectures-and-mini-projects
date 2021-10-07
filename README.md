@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://bibmode.github.io/IT111-lectures-and-mini-projects/">
       ↗️Demo
     </a>
 </div>
